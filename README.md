@@ -564,7 +564,7 @@ seaborn==0.13.0             # Statistical visualization
 </div>
 
 ```bash
-git clone https://github.com/your-username/wine-quality-detection.git
+git clone https://github.com/aryan-r03/wine-quality-detection.git
 cd wine-quality-detection
 ```
 
@@ -2395,14 +2395,14 @@ Special thanks to:
 
 **If this project helped you, please consider:**
 
-<a href="https://github.com/your-username/wine-quality-detection">
-  <img src="https://img.shields.io/github/stars/your-username/wine-quality-detection?style=social" alt="GitHub stars"/>
+<a href="https://github.com/aryan-r03/wine-quality-detection">
+  <img src="https://img.shields.io/github/stars/aryan-r03/wine-quality-detection?style=social" alt="GitHub stars"/>
 </a>
-<a href="https://github.com/your-username/wine-quality-detection/fork">
-  <img src="https://img.shields.io/github/forks/your-username/wine-quality-detection?style=social" alt="GitHub forks"/>
+<a href="https://github.com/aryan-r03/wine-quality-detection/fork">
+  <img src="https://img.shields.io/github/forks/aryan-r03/wine-quality-detection?style=social" alt="GitHub forks"/>
 </a>
-<a href="https://github.com/your-username/wine-quality-detection/watchers">
-  <img src="https://img.shields.io/github/watchers/your-username/wine-quality-detection?style=social" alt="GitHub watchers"/>
+<a href="https://github.com/aryan-r03/wine-quality-detection/watchers">
+  <img src="https://img.shields.io/github/watchers/aryan-r03/wine-quality-detection?style=social" alt="GitHub watchers"/>
 </a>
 
 <br><br>
