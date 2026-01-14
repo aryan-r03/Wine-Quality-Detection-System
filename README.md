@@ -2395,15 +2395,10 @@ Special thanks to:
 
 **If this project helped you, please consider:**
 
-<a href="https://github.com/aryan-r03/wine-quality-detection">
-  <img src="https://img.shields.io/github/stars/aryan-r03/wine-quality-detection?style=social" alt="GitHub stars"/>
-</a>
-<a href="https://github.com/aryan-r03/wine-quality-detection/fork">
-  <img src="https://img.shields.io/github/forks/aryan-r03/wine-quality-detection?style=social" alt="GitHub forks"/>
-</a>
-<a href="https://github.com/aryan-r03/wine-quality-detection/watchers">
-  <img src="https://img.shields.io/github/watchers/aryan-r03/wine-quality-detection?style=social" alt="GitHub watchers"/>
-</a>
+[![GitHub stars](https://img.shields.io/github/stars/aryan-r03/wine-quality-detection-system?style=social)](https://github.com/yourusername/wine-quality-detection-system/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/aryan-r03/wine-quality-detection-system?style=social)](https://github.com/yourusername/wine-quality-detection-system/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/aryan-r03/wine-quality-detection-system)](https://github.com/yourusername/wine-quality-detection-system/issues)
+
 
 <br><br>
 
